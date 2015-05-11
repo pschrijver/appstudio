@@ -16,6 +16,26 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".GameFound"
+            android:label="@string/title_activity_game_found" >
+        </activity>
+        <activity
+            android:name=".ActiveGame"
+            android:label="@string/title_activity_active_game" >
+        </activity>
+        <activity
+            android:name=".GameOver"
+            android:label="@string/title_activity_game_over" >
+        </activity>
+        <activity
+            android:name=".HighScores"
+            android:label="@string/title_activity_high_scores" >
+        </activity>
+        <activity
+            android:name=".ChangeLanguage"
+            android:label="@string/title_activity_change_language" >
+        </activity>
     </application>
 
 </manifest>

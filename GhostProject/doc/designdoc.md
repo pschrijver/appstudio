@@ -85,6 +85,7 @@ All data is stored using [SharedPreferences](http://developer.android.com/traini
 I will be using the following two default classes that are described [here](http://apps.mprog.nl/project/week-3-model-classes).
 * Dictionary class.
 * Game class.
+
 Others classes and methods will be:
 * Game state ('session') saving.
 * Game check. To check if a game is present.
